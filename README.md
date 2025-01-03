@@ -1,4 +1,4 @@
-# ESPortfolio
+# Modern aimated Portfolio
 
 A Next.js (React 19) application that serves as a portfolio and website. This project uses an Express server to handle specific backend operations and integrates various modern front-end tools for an engaging user experience.
 
